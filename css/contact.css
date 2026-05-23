@@ -586,7 +586,7 @@ a.active, .navbar a:hover {
   display: inline-block;
   height: 15px;
   width: 15px;
-  background-image: url(../../assets/image/salad.png);
+  background-image: url(../image/salad.png);
   margin-right: 10px;
   filter: hue-rotate(-120deg);
 }
