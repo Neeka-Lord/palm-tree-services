@@ -307,7 +307,7 @@ a.active, .navbar a:hover {
 
 .shows__background {
     background-color: white;
-    background-image: url(../../assets/image/Contact-BG-picture.jpg);
+    background-image: url(../../image/Contact-BG-picture.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
